@@ -4,7 +4,7 @@ import os
 import HandTrackingModule as htm
 
 # defining the height and width of image
-wCam, hCam = 900, 500
+wCam, hCam = 370, 500
 
 # Code to start webcam
 cap = cv2.VideoCapture(0)
